@@ -1,0 +1,12 @@
+{
+  "game": [
+    {
+      "id": "1001",
+      "name": "Call Of Duty"
+    },
+    {
+      "id": "1002",
+      "name": "Quake"
+    }
+  ]
+}
